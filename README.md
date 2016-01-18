@@ -217,7 +217,7 @@ Now that you know which are the three pilars of a web application's UI, it's tim
 
 6. Add a textbox with the class "alias", and put the cursor inside it right after the ```section``` fades in.
 
-7. Attach an event to the created button which calls a function that gets a response from [http://bootcamp.aws.af.cm/welcome/yourname](http://bootcamp.aws.af.cm/welcome/yourname)
+7. Attach an event to the created button which calls a function that gets a response from [http://bootcamp.dsupport2000.com/welcome/yourname](http://bootcamp.dsupport2000.com/welcome/yourname)
 
 8. Write the response to the ```section``` element.
 
